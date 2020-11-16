@@ -1,0 +1,25 @@
+{
+  "name": "CPIT",
+  "logoURI": "https://www.cpitoken.org/assets/images/logo.png",
+  "keywords": [
+      "cpit",
+      "CPIT",
+      "yield"
+    ],
+    "timestamp": "2020-11-16T01:40:34.305Z",
+    "tokens": [CPIT
+      {
+      "chainId": 1,
+      "address": "0x0000000000000000000000000000",
+      "name": "CPIT",
+      "symbol": "CPIT",
+      "decimals": 18,
+      "logoURI": "https://www.cpitoken.org/assets/images/logo.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
