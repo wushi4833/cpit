@@ -10,7 +10,7 @@
     "tokens": [CPIT
       {
       "chainId": 1,
-      "address": "0x3e228b31c397b4f20db095d1c91ce254da2a519e",
+      "address": "0x000000000000000000000000000",
       "name": "CPIT",
       "symbol": "CPIT",
       "decimals": 18,
