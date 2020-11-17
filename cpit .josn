@@ -7,7 +7,7 @@
       "yield"
     ],
     "timestamp": "2020-11-16T01:40:34.305Z",
-    "tokens": [CPIT
+    "tokens": [
       {
       "chainId": 1,
       "address": "0x3e228b31c397b4f20db095d1c91ce254da2a519e",
